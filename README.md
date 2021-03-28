@@ -1,6 +1,6 @@
 Sistema creado para la empresa [**Corporación A.S.I.**](https://www.corporacionasi.com) como parte de mi Proyecto de Graduación
 
-###### Es un sistema Web, creado en [php,](https://www.php.net/). Para el backend, se utilizó el framework de [Laravel,](https://https://https://laravel.com/) con sus librerías de [composer](https://getcomposer.org/) y [eloquent](https://laravel.com/docs/8.x/eloquent) para apoyo con la base de datos. 
+###### Es un sistema Web, creado en [php](https://www.php.net/). Para el backend, se utilizó el framework de [Laravel,](https://https://https://laravel.com/) con sus librerías de [composer](https://getcomposer.org/) y [eloquent](https://laravel.com/docs/8.x/eloquent) para apoyo con la base de datos. 
 
 ###### Se utiliza para el frontend [flutter,](https://flutter.dev/) cuyo lenguaje es [dart,](https://https://dart.dev/) el cual sirve para crear aplicaciones multiplataforma.
 
